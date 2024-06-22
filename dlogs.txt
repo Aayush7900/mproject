@@ -1,0 +1,2 @@
+Date	Remarks
+3/8	Downloaded REDS dataset from https://seungjunnah.github.io/Datasets/reds as suggested in the https://chatgpt.com/share/99f2a564-260a-40f5-ae15-3aa815b51cbf
